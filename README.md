@@ -18,7 +18,7 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-## 📑 Data Structures & Algorithms :
+
 ![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-8E44AD?style=for-the-badge&logo=codeforces&logoColor=white)
 
 ## 🧠 Libraries & Frameworks : 
