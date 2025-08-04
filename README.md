@@ -2,7 +2,7 @@
 
 Aspiring Data Analyst<br/>
 🌱 I’m currently learning Python, SQL, Excel, Power BI<br/>
-📄 Know about my experiences [Resume](https://drive.google.com/file/d/1-rBdipUKqiZxzo0I1a2EZJY0-7Uy7k4-/view?usp=sharing)
+📄 Know about me [Resume](https://drive.google.com/file/d/1-rBdipUKqiZxzo0I1a2EZJY0-7Uy7k4-/view?usp=sharing)
 
 
 ## 🌐 Socials:
