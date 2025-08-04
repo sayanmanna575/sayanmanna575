@@ -21,13 +21,16 @@
 
 ![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-8E44AD?style=for-the-badge&logo=codeforces&logoColor=white)
 
-![Big Data](https://img.shields.io/badge/Big_Data-F29111?style=for-the-badge&logo=apache&logoColor=white)
-
 ## 🧠 Libraries & Frameworks : 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+
+## 🧠 Big Data & Distributed Computing
+
+![Big Data](https://img.shields.io/badge/Big_Data-F29111?style=for-the-badge&logo=apache&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
 
 ## 📄 Data Handling Tools :
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
