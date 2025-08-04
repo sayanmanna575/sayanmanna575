@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Sayan Manna
 
 📊 Aspiring Data Analyst<br/>
-🌱 I’m currently learning Python, SQL, Excel, Power BI<br/>
+🌱 I’m currently persuing B.Tech in Computer Science & Engineering Specialization in Data Science <br/>
 📑 Know about me [Resume](https://drive.google.com/file/d/1-rBdipUKqiZxzo0I1a2EZJY0-7Uy7k4-/view?usp=sharing)
 
 
