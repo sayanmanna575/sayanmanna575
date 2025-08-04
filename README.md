@@ -30,7 +30,7 @@
 ![Big Data](https://img.shields.io/badge/Big_Data-F29111?style=for-the-badge&logo=apache&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
 
-## DBMS :
+## ⛃ DBMS :
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
