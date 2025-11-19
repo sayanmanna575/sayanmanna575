@@ -2,7 +2,7 @@
 
 📊 Aspiring Data Analyst<br/>
 🌱 I’m currently persuing B.Tech in Computer Science & Engineering Specialization in Data Science <br/>
-📑 Know about me [Resume](https://drive.google.com/file/d/129zvyROdUbEnMWwomM3EFky69kmLtGgI/view?usp=sharing)
+📑 Know about me [Resume](https://drive.google.com/file/d/1GqJtITznJrcjIRK8hFv78c3cnNF_cZ1c/view?usp=sharing)
 
 
 ## 🌐 Socials:
