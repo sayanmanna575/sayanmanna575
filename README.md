@@ -1,4 +1,4 @@
-![alt text](https://github.com/sayanmanna575/sayanmanna575/)
+![alt text](https://github.com/sayanmanna575/sayanmanna575/blob/main/image.png)
 
 ## Hi 👋, I'm Sayan Manna
 
