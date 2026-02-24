@@ -1,3 +1,5 @@
+![alt text](Black and Red Tech Data Analyst LinkedIn Banner.png)
+
 ## Hi 👋, I'm Sayan Manna
 
 📊 Aspiring Data Analyst<br/>
