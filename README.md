@@ -1,4 +1,4 @@
-![alt text](Black and Red Tech Data Analyst LinkedIn Banner.png)
+![alt text](https://github.com/sayanmanna575/sayanmanna575/)
 
 ## Hi 👋, I'm Sayan Manna
 
