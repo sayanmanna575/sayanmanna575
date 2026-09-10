@@ -4,7 +4,7 @@
 
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&pause=500&center=true&vCenter=true&width=435&lines=Data+Analyst;Turn+Messy+Datasets+into+Dashboards;Python+%C2%B7+SQL+%C2%B7+Power+BI+%C2%B7+Excel" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&pause=500&center=true&vCenter=true&width=435&lines=Data+Analyst;Turn+Messy+Datasets+into+Dashboards;Python+%C2%B7+SQL+%C2%B7+Power+BI+%C2%B7+Excel" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
