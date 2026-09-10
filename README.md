@@ -5,6 +5,10 @@
 📊 Aspiring Data Analyst<br/>
 🌱 I’m B.Tech graduate in Computer Science & Engineering Specialization in Data Science <br/>
 
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&pause=500&center=true&vCenter=true&width=435&lines=Data+Analyst;Turn+Messy+Datasets+into+Dashboards;Python+%C2%B7+SQL+%C2%B7+Power+BI+%C2%B7+Excel" alt="Typing SVG" /></a>
+</p>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sayan.575) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayan-manna-139554258) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Sayanmanna575) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mannasayan575@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue)](https://sayanmanna.me/)
