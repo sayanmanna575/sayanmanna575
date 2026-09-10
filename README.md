@@ -41,9 +41,11 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sayanmanna575&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sayanmanna575&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sayanmanna575&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arnav7777/arnav7777/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arnav7777/arnav7777/output/github-snake-light.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/arnav7777/arnav7777/output/github-snake-light.svg">
+</picture>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sayanmanna575&icon=4&color=0)](https://visitcount.itsvg.in)
