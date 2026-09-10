@@ -1,13 +1,22 @@
 ![alt text](https://github.com/sayanmanna575/sayanmanna575/blob/main/image.png)
 
-## Hi 👋, I'm Sayan Manna
+<h1 align="center">Hi 👋, I'm Sayan Manna</h1>
 
-📊 Aspiring Data Analyst<br/>
-🌱 I’m B.Tech graduate in Computer Science & Engineering Specialization in Data Science <br/>
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&pause=500&center=true&vCenter=true&width=435&lines=Data+Analyst;Turn+Messy+Datasets+into+Dashboards;Python+%C2%B7+SQL+%C2%B7+Power+BI+%C2%B7+Excel" alt="Typing SVG" /></a>
 </p>
+
+# 💫 About Me
+
+<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+- 💻 Aspiring Data Analyst
+- 🌱 B.Tech graduate in Computer Science & Engineering Specialization in Data Science*
+- 🚀 Passionate about insights from data
+- ⚡ Love building Dashboards
+
+<br>
 
 
 ## 🌐 Socials:
