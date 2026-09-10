@@ -20,21 +20,12 @@
 - 🚀 Passionate about insights from data
 - ⚡ Love building Dashboards
 
-  <p align="center">
-  <a href="Sayan_Manna_Data_Analyst_Resume.pdf" target="_blank">
-    <img
-      src="https://img.shields.io/badge/◉%20View%20Resume-18181B?style=for-the-badge&labelColor=18181B"
-      alt="View Resume"
-    />
+  <div align="center">
+  <a href="./Sayan_Manna_Data_Analyst_Resume.pdf" download>
+  <img src="https://img.shields.io/badge/⬇%20Download%20Resume-2563EB?style=for-the-badge" alt="Download Resume"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="Sayan_Manna_Data_Analyst_Resume.pdf">
-    <img
-      src="https://img.shields.io/badge/↓%20Download%20Resume-2563EB?style=for-the-badge&labelColor=2563EB"
-      alt="Download Resume"
-    />
-  </a>
-</p>
+
+  </div>
 
 <br>
 
