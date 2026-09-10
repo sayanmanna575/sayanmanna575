@@ -7,6 +7,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&pause=500&center=true&vCenter=true&width=435&lines=Data+Analyst;Turn+Messy+Datasets+into+Dashboards;Python+%C2%B7+SQL+%C2%B7+Power+BI+%C2%B7+Excel" alt="Typing SVG" /></a>
 </p>
 
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:0078FF&height=180&section=header&text=Welcome%20To%20My%20GitHub&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
 # 💫 About Me
 
 <img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
