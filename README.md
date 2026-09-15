@@ -16,7 +16,7 @@
 <img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 - 💻 Aspiring Data Analyst
-- 🌱 B.Tech graduate in Computer Science & Engineering Specialization in Data Science*
+- 🌱 B.Tech graduate in Computer Science & Engineering Specialization in Data Science
 - 🚀 Passionate about insights from data
 - ⚡ Love building Dashboards
 
